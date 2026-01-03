@@ -26,3 +26,8 @@
 
 ## ⚠️ Disclaimer
 本ソフトウェアは現状有姿で提供されます。AIによる検出精度は100%を保証するものではなく、機密データの取り扱いには十分な検証を行った上でご利用ください。
+
+## Compliance / Privacy / Ethics
+- This repository is provided as a sample/portfolio.
+- Do not process personal/confidential data without proper authorization and consent.
+- Review docs/DATA_HANDLING.md and docs/ETHICS.md before any real-world use.
